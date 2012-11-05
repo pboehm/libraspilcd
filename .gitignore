@@ -1,0 +1,4 @@
+*.o
+raspilcd
+*.swp
+*.swo
